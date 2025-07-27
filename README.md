@@ -12,7 +12,7 @@
 
 ---
 
-## 🏆 Hobby & Open Source Projects
+## 🏆 Open Source Projects
 
 - **[rust-remove-background-cpu](https://github.com/porameht/rust-rem-bg-cpu)**
   High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
