@@ -71,9 +71,10 @@ Docker, Kubernetes, Git, MongoDB, Redis, PostgreSQL, GitHub Actions, Jenkins, Ar
 
 ## 🌐 Connect with Me
 
-- [GitHub](https://github.com/porameht)
+- [Blog](https:/fr4nk.xyz)
 - [Hugging Face](https://huggingface.co/porameht)
 - [LinkedIn](https://linkedin.com/porameht)
+- [PDF](https:/porameht.com)
 
 ---
 
