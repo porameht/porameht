@@ -20,7 +20,7 @@
 - **[Thongna](https://github.com/porameht/Thongna)**
   High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
 
-- **[BiLSTM-CRF using Word/Character Embedding](https://github.com/porameht/BiLSTM-CRF-Word-Char-Embedding)**
+- **[BiLSTM-CRF using Word/Character Embedding](https://github.com/porameht/bi_lstm_crf_ner)**
   Model for Named Entity Recognition (NER) Task—Address Detection and Classification in Thailand.
 
 - **[Ecommerce Hybrid Search](https://github.com/porameht/Ecommerce-Hybrid-Search)**
