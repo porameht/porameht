@@ -13,7 +13,7 @@
   - Co-Founder and developer in NFT Minting digital product `3000 pcs.` I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn `7000$`.
   - Improvement time and space complexity of feature campaign status change from `O(n)` to `O(1)` by using redis ttl.
   - Maintainer Core Machine Learning model for Intent Thai&Eng Classification using the concept of `contextual string embeddings` which is used for `Sequence Labelling`.
-  - Building and Utilizetion TON Chain Web3 Technology for authentication system telegram bot.
+  - Building and Utilization `TON Chain` Web3 Technology for authentication system telegram bot.
 - **Machine Learning Engineer** (💻 2+ years -> past)
   - Implement & deploy NER Task using `BiLSTM + CRF Algorithms` for address extraction and classification in Thai langauge.
   - Research and trainer NER Task using `BERT` with `ThaiNER corpus 2.2` public model on huggingface
