@@ -6,6 +6,7 @@
 
 ## 🧑‍💻 Journey About Me
 - **Mechanical Engineer** (5+ years) specializing in machine design, product specification development, and project management
+  -  Project owner and design product pipe tube seal this path of Machine Honda CITY 2020 (Major Change 3 Pistons)
   -  Root Cause Analysis & CNC Programming expert with hands-on manufacturing experience
   -  Maintenance Department Leader managing 30+ technicians in industrial operations
 - **Full Stack Software Engineer** (5+ years) & **Machine Learning Engineer** (2+ years)
