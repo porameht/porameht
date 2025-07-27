@@ -28,6 +28,10 @@
 - **[Ecommerce Hybrid Search](https://github.com/porameht/Ecommerce-Hybrid-Search)**
   Utilizes Pinecone vector DB, CLIP dense vectors, and BM25 sparse vectors with hybrid scaling for product search.
 
+
+  <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/93165aa6-5e15-44cb-961b-89241a2c1a0e" />
+
+
 - **[OpenThaiGPT-7B Customer Support](https://huggingface.co/Porameht/openthaigpt-7b-customer-support-th)**
   Thai customer support fine-tuned version of the OpenThaiGPT-7B model.
 
