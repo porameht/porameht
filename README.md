@@ -46,6 +46,9 @@
 - **[rust-remove-background-cpu](https://github.com/porameht/rust-rem-bg-cpu)**
   High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
 
+  <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/6fb03cb8-5878-4b46-8218-52ce825f85d9" />
+
+  
 - **[bg-remove-webgpu](https://github.com/porameht/bg-remove-webgpu)**
   Image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
   
