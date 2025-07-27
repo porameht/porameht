@@ -15,7 +15,7 @@
 
 ---
 
-## 🏆 Open Source Projects
+## 🏆 Hobby & Open Source Projects
 
 
 
