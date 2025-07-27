@@ -14,8 +14,7 @@
 
 ## 🏆 Open Source Projects
 
-- **[rust-remove-background-cpu](https://github.com/porameht/rust-rem-bg-cpu)**
-  High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
+
 
 - **[Wangchanberta-Thainer-Corpus-v2-2](https://huggingface.co/Porameht/wangchanberta-thainer-corpus-v2-2)**
   Fine-tuned `airesearch/wangchanberta-base-att-spm-uncased` on the `pythainlp/thainer-corpus-v2.2` dataset.
@@ -44,8 +43,14 @@
 - **[Booking Intent in Thai Dataset](https://huggingface.co/datasets/Porameht/booking-intent-th)**
   10k synthetic Thai booking intent samples.
 
+- **[rust-remove-background-cpu](https://github.com/porameht/rust-rem-bg-cpu)**
+  High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
+
 - **[bg-remove-webgpu](https://github.com/porameht/bg-remove-webgpu)**
   Image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
+  
+- **[image-processing-cpu](https://github.com/porameht/image-processing-cpu)**
+  A FastAPI service that removes backgrounds from images using deep learning models, optimized for CPU and low-memory environments.
 
 ---
 
