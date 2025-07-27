@@ -47,13 +47,18 @@
   High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
 
   <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/6fb03cb8-5878-4b46-8218-52ce825f85d9" />
-
   
 - **[bg-remove-webgpu](https://github.com/porameht/bg-remove-webgpu)**
   Image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
   
 - **[image-processing-cpu](https://github.com/porameht/image-processing-cpu)**
   A FastAPI service that removes backgrounds from images using deep learning models, optimized for CPU and low-memory environments.
+
+- **[data-analyst-agent](https://github.com/porameht/data-analyst-agent)**
+  Multi-agent AI system with ease, flexible framework provided by crewAI. This agents to collaborate effectively on complex tasks
+
+  <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 26 32" src="https://github.com/user-attachments/assets/5b3b51e8-8b88-4920-a4f3-be8afbafad2c" />
+
 
 ---
 
