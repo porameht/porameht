@@ -15,7 +15,7 @@
   - Improvement time and space complexity of feature campaign status change from O(n) to O(1) by using redis ttl.
 - **Machine Learning Engineer** (2+ years -> past)
   - Implement & deploy NER Task using BiLSTM + CRF Algorithms for address extraction and classification in Thai langauge.
-  - Research and trainer NER Task using WangchanBERT with ThaiNER corpus 2.0 public model on huggingface
+  - Research and trainer NER Task using WangchanBERT with ThaiNER corpus 2.2 public model on huggingface
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
 
