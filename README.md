@@ -17,7 +17,7 @@
 - **[rust-remove-background-cpu](https://github.com/porameht/rust-rem-bg-cpu)**
   High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
 
-- **[Wangchanberta-Thainer-Corpus-v2-2](https://github.com/porameht/Wangchanberta-Thainer-Corpus-v2-2)**
+- **[Wangchanberta-Thainer-Corpus-v2-2](https://huggingface.co/Porameht/wangchanberta-thainer-corpus-v2-2)**
   Fine-tuned `airesearch/wangchanberta-base-att-spm-uncased` on the `pythainlp/thainer-corpus-v2.2` dataset.
 
 - **[Thongna](https://github.com/porameht/Thongna)**
