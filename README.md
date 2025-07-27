@@ -26,22 +26,22 @@
 - **[Ecommerce Hybrid Search](https://github.com/porameht/Ecommerce-Hybrid-Search)**
   Utilizes Pinecone vector DB, CLIP dense vectors, and BM25 sparse vectors with hybrid scaling for product search.
 
-- **[OpenThaiGPT-7B Customer Support](https://github.com/porameht/OpenThaiGPT-7B-Customer-Support)**
+- **[OpenThaiGPT-7B Customer Support](https://huggingface.co/Porameht/openthaigpt-7b-customer-support-th)**
   Thai customer support fine-tuned version of the OpenThaiGPT-7B model.
 
-- **[BERT Intent Classification in Thai](https://github.com/porameht/BERT-Intent-Classification-Thai)**
+- **[BERT Intent Classification in Thai](https://huggingface.co/Porameht/bert-intent-customer-support-th)**
   Smart AI chat that classifies customer intent using BERT.
 
-- **[Whisper-Tiny Smarthome in Thai](https://github.com/porameht/Whisper-Tiny-Smarthome-Thai)**
+- **[Whisper-Tiny Smarthome in Thai](https://huggingface.co/Porameht/whisper-tiny-smarthome-thai)**
   Whisper-tiny fine-tuned for Thai smarthome speech, achieving 24.375 WER on eval set.
 
-- **[Background Removal using WebGPU](https://github.com/porameht/Background-Removal-WebGPU)**
+- **[Background Removal using WebGPU]([https://github.com/porameht/Background-Removal-WebGPU](https://github.com/porameht/bg-remove-webgpu))**
   Real-time background removal in the browser with WebGPU and Transformer.js.
 
-- **[Product Description in Thai Dataset](https://github.com/porameht/Product-Description-Thai-Dataset)**
+- **[Product Description in Thai Dataset](https://huggingface.co/datasets/Porameht/product-thai-114k)**
   114k product descriptions in Thai.
 
-- **[Booking Intent in Thai Dataset](https://github.com/porameht/Booking-Intent-Thai-Dataset)**
+- **[Booking Intent in Thai Dataset](https://huggingface.co/datasets/Porameht/booking-intent-th)**
   10k synthetic Thai booking intent samples.
 
 ---
@@ -49,7 +49,7 @@
 ## 🎓 Education
 
 **King Mongkut's Institute of Technology Ladkrabang**
-Bachelor of Engineering, Mechanical Engineering (2017)
+Bachelor of Engineering, ⚙️ Mechanical Engineering (2017)
 
 ---
 
