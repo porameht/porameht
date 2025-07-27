@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- **Full Stack Software Engineer** (4+ years) & **Machine Learning Engineer** (2+ years)
+- **Full Stack Software Engineer** (5+ years) & **Machine Learning Engineer** (2+ years)
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
 
