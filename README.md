@@ -16,8 +16,8 @@
   - Maintainer Core Machine Learning model for Intent Thai&Eng Classification using the concept of `contextual string embeddings` which is used for `Sequence Labelling`.
   - Build and develop authentication system for telegram bot by utilization `TON Chain` Web3 Wallet Technology.
 - **Machine Learning Engineer** (💻 2+ years -> past)
-  - Implement & deploy NER Task using `BiLSTM + CRF Algorithms` for address extraction and classification in Thai langauge.
-  - Research and trainer NER Task using `BERT` with `ThaiNER corpus 2.2` public model on huggingface
+  - R&D and deploy NER Task using `BiLSTM + CRF Algorithms` for address extraction and classification in Thai langauge.
+  - R&D and deploy NER Task using `BERT` with `ThaiNER corpus 2.2` public model on huggingface
   - Optimize search system for reduced response time from `~800ms` to `~200ms` in fulltext + natural + images search in qdrant vectordb feature `150k+ products` large payload and images.
   - Research and optimized feature remove background `U2NET Model` from GPU-based to CPU-based using quantized models technique for reduced from `~800 mb` to `~40 mb` with Rust and ONNX Runtime.
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
