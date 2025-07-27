@@ -38,9 +38,6 @@
 - **[Whisper-Tiny Smarthome in Thai](https://huggingface.co/Porameht/whisper-tiny-smarthome-thai)**
   Whisper-tiny fine-tuned for Thai smarthome speech, achieving 24.375 WER on eval set.
 
-- **[Background Removal using WebGPU](https://github.com/porameht/bg-remove-webgpu)**
-  Real-time background removal in the browser with WebGPU and Transformer.js.
-
 - **[Product Description in Thai Dataset](https://huggingface.co/datasets/Porameht/product-thai-114k)**
   114k product descriptions in Thai.
 
