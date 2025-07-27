@@ -4,8 +4,10 @@
 
 ---
 
-## 🧑‍💻 About Me
-- **Mechanical Engineer** (5+ years) Working in Machine Design and Standradize product spec, Project Management, Root Cause Analysis and CNC Machine Program
+## 🧑‍💻 Journey About Me
+- **Mechanical Engineer** (5+ years) specializing in machine design, product specification development, and project management
+  -  Root Cause Analysis & CNC Programming expert with hands-on manufacturing experience
+  -  Maintenance Department Leader managing 30+ technicians in industrial operations
 - **Full Stack Software Engineer** (5+ years) & **Machine Learning Engineer** (2+ years)
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
