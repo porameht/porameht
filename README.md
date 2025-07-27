@@ -8,18 +8,18 @@
 - **Mechanical Engineer** (⚙️ 5+ years) specializing in machine design, product specification development, and project management
   -  Project owner and design product pipe tube seal, this is the special part of machine `honda CITY 2020 Turbo` (Major Change 3 Pistons)
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause.
-  -  Build and develop search system `~500 records problem unique` to match problems with their root causes using spreadsheets. this project for reduce the time spent investigating repetitive causes from `~30 minute` sometime up to `3 days` to approximately `1 minute` if the problem appears in the table!
-  -  Maintenance Department leader and advisor managing `30+ technicians` with `400+ machines`, main focus breakdown maintenance and i'm success in reduce breakdown time from `~7%` to `~1%` per month in industrial operations.
+  -  Build and develop search system `~500 records problem unique` to match problems with their root causes using spreadsheets. this project for reduced the time spent investigating repetitive causes from `~30 minute` sometime up to `3 days` to approximately `1 minute` if the problem appears in the table!
+  -  Maintenance Department leader and advisor managing `30+ technicians` with `400+ machines`, main focus breakdown maintenance and i'm success in reduced breakdown time from `~7%` to `~1%` per month in industrial operations.
 - **Software Engineer (Full Stack)** (💻  3+ years)
   - Co-Founder and developer in NFT Minting digital product `3000 pcs.` on `ETH Chain` I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn `25000$`.
-  - Improvement time and space complexity of status change of campagin event from `O(n)` to `O(1)` by using redis ttl.
+  - Improvement reduced time and space complexity of status change of campagin event from `O(n)` to `O(1)` by using redis ttl.
   - Maintainer Core Machine Learning model for Intent Thai&Eng Classification using the concept of `contextual string embeddings` which is used for `Sequence Labelling`.
-  - Builded authentication system for telegram bot by utilization `TON Chain` Web3 Wallet Technology.
+  - Build and develop authentication system for telegram bot by utilization `TON Chain` Web3 Wallet Technology.
 - **Machine Learning Engineer** (💻 2+ years -> past)
   - Implement & deploy NER Task using `BiLSTM + CRF Algorithms` for address extraction and classification in Thai langauge.
   - Research and trainer NER Task using `BERT` with `ThaiNER corpus 2.2` public model on huggingface
-  - Optimize search system for reduce response time from `~800ms` to `~200ms` in fulltext + natural + images search in qdrant vectordb feature `150k+ products` large payload and images.
-  - Research and Optimized feature remove background `U2NET Model` from GPU-based to CPU-based using quantized models technique for minimize from `~800 mb` to `~40 mb` with Rust and ONNX Runtime.
+  - Optimize search system for reduced response time from `~800ms` to `~200ms` in fulltext + natural + images search in qdrant vectordb feature `150k+ products` large payload and images.
+  - Research and optimized feature remove background `U2NET Model` from GPU-based to CPU-based using quantized models technique for reduced from `~800 mb` to `~40 mb` with Rust and ONNX Runtime.
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
 
