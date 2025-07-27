@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Frank and I love problem 👷‍♂️
 
-🦀 **Rustacean exploring the intersection of computation, language, and embedded systems**
-
 ---
 
 ## 🧑‍💻 About Me & My Journey
