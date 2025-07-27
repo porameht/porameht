@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Journey About Me
+## 🧑‍💻 About Me & My Journey
 - **Mechanical Engineer** (⚙️ 5+ years) specializing in machine design, product specification development, and project management
   -  Project owner and design product pipe tube seal, this is the special part of machine `honda CITY 2020 Turbo` (Major Change 3 Pistons)
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause and having hands-on manufacturing experience
