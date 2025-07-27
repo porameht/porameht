@@ -8,7 +8,7 @@
 - **Mechanical Engineer** (⚙️ 5+ years) specializing in machine design, product specification development, and project management
   -  Project owner and design product pipe tube seal, this is the special part of machine `honda CITY 2020 Turbo` (Major Change 3 Pistons)
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause.
-  -  i'm builded search system `~500 records problem unique` for mapping problem and root cause by using spreadsheet this project for reduce the time spent investigating repetitive causes from `~30 minute to 3 days` to if problem hit in table will remaining `~1 minute` only!.
+  -  Builded search system `~500 records problem unique` for mapping problem and root cause by using spreadsheet this project for reduce the time spent investigating repetitive causes from `~30 minute to 3 days` to if problem hit in table will remaining `~1 minute` only!.
   -  Maintenance Department leader and advisor managing `30+ technicians` with `400+ machines`, main focus breakdown maintenance and i'm success in reduce breakdown time from `~7%` to `~1%` per month in industrial operations.
 - **Software Engineer (Full Stack)** (💻  3+ years)
   - Co-Founder and developer in NFT Minting digital product `3000 pcs.` on `ETH Chain` I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn `25000$`.
