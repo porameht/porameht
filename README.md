@@ -47,6 +47,9 @@
 - **[Booking Intent in Thai Dataset](https://huggingface.co/datasets/Porameht/booking-intent-th)**
   10k synthetic Thai booking intent samples.
 
+- **[bg-remove-webgpu](https://github.com/porameht/bg-remove-webgpu)**
+  Image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
+
 ---
 
 ## 🎓 Education
