@@ -6,16 +6,16 @@
 
 ## 🧑‍💻 Journey About Me
 - **Mechanical Engineer** (5+ years) specializing in machine design, product specification development, and project management
-  -  Project owner and design product pipe tube seal, this is the special part of machine honda CITY 2020 Turbo (Major Change 3 Pistons)
-  -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, ssometime will research chemical & material for finding root cause and having hands-on manufacturing experience
-  -  Maintenance Department leader and advisor managing 30+ technicians with machine 400+, main focus breakdown maintenance and i'm success in reduce breakdown time from ~7% to ~1% per month in industrial operations.
+  -  Project owner and design product pipe tube seal, this is the special part of machine `honda CITY 2020 Turbo` (Major Change 3 Pistons)
+  -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause and having hands-on manufacturing experience
+  -  Maintenance Department leader and advisor managing `30+ technicians` with `400+ machines`, main focus breakdown maintenance and i'm success in reduce breakdown time from ~7% to ~1% per month in industrial operations.
 - **Software Engineer (Full Stack)** (5+ years)
-  - Fouder and develop in NFT Minting digital product 3000 pcs. I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn 7000$.
-  - Optimize search system for reduce response time from 500ms to 200ms in hybrid search feature 150k+ product large payload and images.
-  - Improvement time and space complexity of feature campaign status change from O(n) to O(1) by using redis ttl.
+  - Fouder and develop in NFT Minting digital product `3000 pcs.` I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn `7000$`.
+  - Optimize search system for reduce response time from `~800ms` to `~200ms` in hybrid search feature `150k+ products` large payload and images.
+  - Improvement time and space complexity of feature campaign status change from `O(n)` to `O(1)` by using redis ttl.
 - **Machine Learning Engineer** (2+ years -> past)
-  - Implement & deploy NER Task using BiLSTM + CRF Algorithms for address extraction and classification in Thai langauge.
-  - Research and trainer NER Task using WangchanBERT with ThaiNER corpus 2.2 public model on huggingface
+  - Implement & deploy NER Task using `BiLSTM + CRF Algorithms` for address extraction and classification in Thai langauge.
+  - Research and trainer NER Task using `BERT` with `ThaiNER corpus 2.2` public model on huggingface
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
 
