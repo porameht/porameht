@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Porameht
+# 👋 Hi, I'm Frank
 
 🦀 **Rustacean exploring the intersection of computation, language, and embedded systems**
 
