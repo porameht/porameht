@@ -9,7 +9,8 @@
   -  Project owner and design product pipe tube seal, this is the part of Machine Honda CITY 2020 Turbo (Major Change 3 Pistons)
   -  Root Cause Analysis & CNC Programming expert with hands-on manufacturing experience
   -  Maintenance Department Leader managing 30+ technicians in industrial operations
-- **Full Stack Software Engineer** (5+ years) & **Machine Learning Engineer** (2+ years)
+- **Software Engineer (Full Stack)** (5+ years)
+- **Machine Learning Engineer** (2+ years -> past)
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
 
