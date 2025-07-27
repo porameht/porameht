@@ -12,8 +12,10 @@
 - **Software Engineer (Full Stack)** (5+ years)
   - Fouder and develop in NFT Minting product 3333pcs. I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn 7000$.
   - Optimize search system for reduce response time from 500ms to 200ms in hybrid search feature 150k+ product large payload and images.
-  - Improvement time complexity of feature campaign status change from O(n) to O(1) by using redis ttl.
+  - Improvement time and space complexity of feature campaign status change from O(n) to O(1) by using redis ttl.
 - **Machine Learning Engineer** (2+ years -> past)
+  - Implement & deploy NER Task using BiLSTM + CRF Algorithms for address extraction and classification in Thai langauge.
+  - Research and trainer NER Task using WangchanBERT with ThaiNER corpus 2.0 public model on huggingface
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
 
