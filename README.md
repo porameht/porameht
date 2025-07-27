@@ -27,10 +27,15 @@
 
 ## 🏆 Hobby & Open Source Projects
 
-
-
 - **[Wangchanberta-Thainer-Corpus-v2-2](https://huggingface.co/Porameht/wangchanberta-thainer-corpus-v2-2)**
   Fine-tuned `airesearch/wangchanberta-base-att-spm-uncased` on the `pythainlp/thainer-corpus-v2.2` dataset.
+  ```python
+  # Load model directly
+  from transformers import AutoTokenizer, AutoModelForTokenClassification
+  
+  tokenizer = AutoTokenizer.from_pretrained("Porameht/wangchanberta-thainer-corpus-v2-2")
+  model = AutoModelForTokenClassification.from_pretrained("Porameht/wangchanberta-thainer-corpus-v2-2")
+  ```
 
 - **[Thongna](https://github.com/porameht/Thongna)**
   High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
