@@ -10,6 +10,8 @@
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, ssometime will research chemical & material for finding root cause and having hands-on manufacturing experience
   -  Maintenance Department leader and advisor managing 30+ technicians with machine 400+, main focus breakdown maintenance and i'm success in reduce breakdown time from ~7% to ~1% per month in industrial operations.
 - **Software Engineer (Full Stack)** (5+ years)
+  - reduce response time from 500ms to 200ms in hybrid search feature 150k+ product large payload and image.
+  - design algorithm for detect change atomic processing by using redis ttl feature. 
 - **Machine Learning Engineer** (2+ years -> past)
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
