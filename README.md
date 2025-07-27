@@ -10,7 +10,7 @@
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause and having hands-on manufacturing experience
   -  Maintenance Department leader and advisor managing `30+ technicians` with `400+ machines`, main focus breakdown maintenance and i'm success in reduce breakdown time from `~7%` to `~1%` per month in industrial operations.
 - **Software Engineer (Full Stack)** (💻  3+ years)
-  - Co-Founder and developer in NFT Minting digital product `3000 pcs.` I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn `7000$`.
+  - Co-Founder and developer in NFT Minting digital product `3000 pcs.` on `ETH Chain` I'm focus in smart contract research, metadata storage IPFS for images and web full-stack development this project earn `7000$`.
   - Improvement time and space complexity of feature campaign status change from `O(n)` to `O(1)` by using redis ttl.
   - Maintainer Core Machine Learning model for Intent Thai&Eng Classification using the concept of `contextual string embeddings` which is used for `Sequence Labelling`.
   - Building and Utilization `TON Chain` Web3 Technology for authentication system telegram bot.
