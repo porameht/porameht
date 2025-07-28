@@ -16,7 +16,7 @@
 - **Machine Learning Engineer** (💻 2+ years -> past)
   - R&D and deploy NER Task using Deep Learning `BiLSTM + CRF Algorithms` for address extraction feature in Thai langauge.
   - Develop and maintainer public model on huggingface in NER Task using `BERT` with `ThaiNER corpus 2.2` 
-  - Optimize search system for reduced response time from `~800ms` to `~200ms` in fulltext + natural + images search in qdrant vectordb feature `150k+ products` large payload and images.
+  - Optimize search system for reduced response time from `~800ms` to `~200ms` in hybrid search (dense + sprase) in qdrant vectordb feature `150k+ products` large payload and images.
   - Research and optimized feature remove background `U2NET Model` from GPU-based to CPU-based using quantized models technique for reduced from `~800 mb` to `~40 mb` with Rust and ONNX Runtime.
 - Passionate about building scalable systems, intelligent applications, and efficient microcontrollers
 - Always learning, always tinkering—bridging the gap between hardware and high-level computation
