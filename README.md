@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Frank and I love problem 👷‍♂️
+# 👋 Hi, I'm Frank and I love solving problems. 👷‍♂️
 
 ---
 
 ## 🧑‍💻 About Me & My Journey
-- **Mechanical Engineer** (⚙️ 5+ years) specializing in machine design, problem solving, and project management
+- **Mechanical Engineer** (⚙️ 5+ years) developing innovative machine designs while leading cross-functional projects and solving complex engineering challenges.
   -  Project owner and design product pipe tube seal, this is the special part of machine `honda CITY 2020 Turbo` (Major Change 3 Pistons)
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause.
   -  Build and develop search system `~500 records problem unique` to match problems with their root causes using spreadsheets. this project for reduced the time spent investigating repetitive causes from `~30 minute` sometime up to `3 days` to approximately `1 minute` if the problem appears in the table!
