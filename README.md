@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me & My Journey
-- **Mechanical Engineer** (⚙️ 5+ years) specializing in machine design, product specification development, and project management
+- **Mechanical Engineer** (⚙️ 5+ years) specializing in machine design, problem solving, and project management
   -  Project owner and design product pipe tube seal, this is the special part of machine `honda CITY 2020 Turbo` (Major Change 3 Pistons)
   -  Root Cause Analysis & Problem Solving expert for mechanical and electrical issues, with CNC programming expertise, sometime will research chemical & material for finding root cause.
   -  Build and develop search system `~500 records problem unique` to match problems with their root causes using spreadsheets. this project for reduced the time spent investigating repetitive causes from `~30 minute` sometime up to `3 days` to approximately `1 minute` if the problem appears in the table!
