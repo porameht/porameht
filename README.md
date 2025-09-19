@@ -75,7 +75,9 @@
   
 - **[bg-remove-webgpu](https://github.com/porameht/bg-remove-webgpu)**
   Image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
-  
+
+  <img width="400" height="400" alt="Screenshot 2568-09-19 at 09 54 41" src="https://github.com/user-attachments/assets/abc51c92-807e-4de6-bc52-f9b304f00cca" />
+
 - **[image-processing-cpu](https://github.com/porameht/image-processing-cpu)**
   A FastAPI service that removes backgrounds from images using deep learning models, optimized for CPU and low-memory environments.
 
