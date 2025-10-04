@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Frank and I love solving problems. 👷‍♂️
 
+## 🌐 Connect with Me
+
+- [Blog](https://fr4nk.xyz)
+- [Hugging Face](https://huggingface.co/porameht)
+- [LinkedIn](https://linkedin.com/porameht)
+- [PDF](https://porameht.com)
 ---
 
 ## 🧑‍💻 About Me & My Journey
@@ -109,15 +115,6 @@ TensorFlow, PyTorch, Hugging Face, Jupyter Notebook, DVC, Weights & Biases, MLFl
 
 **Tools & Technologies:**
 Docker, Kubernetes, Git, MongoDB, Redis, PostgreSQL, GitHub Actions, Jenkins, ArgoCD, CircleCI, AWS, GCP
-
----
-
-## 🌐 Connect with Me
-
-- [Blog](https://fr4nk.xyz)
-- [Hugging Face](https://huggingface.co/porameht)
-- [LinkedIn](https://linkedin.com/porameht)
-- [PDF](https://porameht.com)
 
 ---
 
