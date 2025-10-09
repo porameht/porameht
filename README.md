@@ -29,7 +29,7 @@
 
 - **Machine learning system design for realtime object detection**
 
-  <img width="400" height="491" alt="Screenshot 2568-10-09 at 18 10 35" src="https://github.com/user-attachments/assets/c3f27549-eea5-4d24-8a74-12a07a4dc9ae" />
+  <img width="1400" height="491" alt="Screenshot 2568-10-09 at 18 10 35" src="https://github.com/user-attachments/assets/c3f27549-eea5-4d24-8a74-12a07a4dc9ae" />
 
 - **[Thongna](https://github.com/porameht/Thongna)**
   High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
