@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Frank and I Passionate in Problem Solving 🤔
+# 👋 Hi, I'm Frank
 
 ## 🌐 Connect with Me
 
