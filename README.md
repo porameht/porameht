@@ -43,6 +43,14 @@
   tokenizer = AutoTokenizer.from_pretrained("Porameht/wangchanberta-thainer-corpus-v2-2")
   model = AutoModelForTokenClassification.from_pretrained("Porameht/wangchanberta-thainer-corpus-v2-2")
   ```
+- **[Object Detection API](https://github.com/porameht/object-detection-api)** A FastAPI-based microservice for object detection tasks with asynchronous processing.
+- **[ML Worker for object detection at scale RF-DETR Model](https://github.com/porameht/object-detection-worker)** ML Worker for object detection at scale. Pulls tasks from Pub/Sub, reads images from GCS, runs RFDETR, stores results to GCS, and notifies an internal API.
+  
+  <img width="400" height="400" alt="Screenshot 2568-10-09 at 18 13 04" src="https://github.com/user-attachments/assets/5e9b9095-94f9-45dc-bebc-4a40bc66b09f" />
+
+- **Machine learning system design for realtime object detection**
+
+  <img width="1550" height="491" alt="Screenshot 2568-10-09 at 18 10 35" src="https://github.com/user-attachments/assets/c3f27549-eea5-4d24-8a74-12a07a4dc9ae" />
 
 - **[Thongna](https://github.com/porameht/Thongna)**
   High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
@@ -91,8 +99,7 @@
   Multi-agent AI system with ease, flexible framework provided by crewAI. This agents to collaborate effectively on complex tasks
 
   <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 26 32" src="https://github.com/user-attachments/assets/5b3b51e8-8b88-4920-a4f3-be8afbafad2c" />
-
-
+  
 ---
 
 ## 🎓 Education
