@@ -50,12 +50,16 @@
 
 - **Machine learning system design for realtime object detection**
 
-  <img width="1550" height="491" alt="Screenshot 2568-10-09 at 18 10 35" src="https://github.com/user-attachments/assets/c3f27549-eea5-4d24-8a74-12a07a4dc9ae" />
+  <img width="400" height="491" alt="Screenshot 2568-10-09 at 18 10 35" src="https://github.com/user-attachments/assets/c3f27549-eea5-4d24-8a74-12a07a4dc9ae" />
 
 - **[Thongna](https://github.com/porameht/Thongna)**
   High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
 
   <img width="400" height="400" alt="Screenshot 2568-07-27 at 19 19 52" src="https://github.com/user-attachments/assets/853c4cbe-d64a-43c0-b505-6d150463eb6f" />
+
+- **[Restaurant Recommendation API - Rust](https://github.com/porameht/recsys-ml-inference-rust)** High-performance restaurant recommendation service with ML inference, achieving P95 latency < 30ms at 300 concurrent users.
+
+  <img width="400" height="400" alt="Screenshot 2568-10-09 at 20 25 48" src="https://github.com/user-attachments/assets/7b0dfbee-072e-42d4-a1c0-732183257fc0" />
 
 - **[BiLSTM-CRF using Word/Character Embedding](https://github.com/porameht/bi_lstm_crf_ner)**
   Model for Named Entity Recognition (NER) Task—Address Detection and Classification in Thailand.
@@ -63,9 +67,7 @@
 - **[Ecommerce Hybrid Search](https://github.com/porameht/Ecommerce-Hybrid-Search)**
   Utilizes Pinecone vector DB, CLIP dense vectors, and BM25 sparse vectors with hybrid scaling for product search.
 
-
   <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/93165aa6-5e15-44cb-961b-89241a2c1a0e" />
-
 
 - **[OpenThaiGPT-7B Customer Support](https://huggingface.co/Porameht/openthaigpt-7b-customer-support-th)**
   Thai customer support fine-tuned version of the OpenThaiGPT-7B model.
