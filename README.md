@@ -36,7 +36,7 @@
 
   <img width="400" height="400" alt="Screenshot 2568-07-27 at 19 19 52" src="https://github.com/user-attachments/assets/853c4cbe-d64a-43c0-b505-6d150463eb6f" />
 
-- **[Restaurant Recommendation API - Rust](https://github.com/porameht/recsys-ml-inference-rust)** High-performance multi-threaded application restaurant recommendation service with ML inference, achieving P95 latency < 30ms at 300 concurrent users.
+- **[Restaurant Recommendation API - Rust](https://github.com/porameht/recsys-ml-inference-rust)** High-performance multi-threaded application restaurant recommendation service with ML inference, achieving P95 latency < 20ms at 800 concurrent users.
 
   <img width="400" height="400" alt="Screenshot 2568-10-09 at 20 25 48" src="https://github.com/user-attachments/assets/7b0dfbee-072e-42d4-a1c0-732183257fc0" />
   
