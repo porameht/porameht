@@ -38,7 +38,7 @@
 
   <img width="600" height="300" alt="Screenshot 2568-10-09 at 20 25 48" src="https://github.com/user-attachments/assets/7b0dfbee-072e-42d4-a1c0-732183257fc0" />
   
-  <img width="600" height="400" alt="Screenshot 2568-10-09 at 20 30 41" src="https://github.com/user-attachments/assets/e32e926e-1be9-43cb-830b-9eed7e28859c" />
+  <img width="600" height="300" alt="Screenshot 2568-10-09 at 20 30 41" src="https://github.com/user-attachments/assets/e32e926e-1be9-43cb-830b-9eed7e28859c" />
 
 
 - **[BiLSTM-CRF using Word/Character Embedding](https://github.com/porameht/bi_lstm_crf_ner)**
