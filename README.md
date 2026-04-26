@@ -13,7 +13,7 @@
 - **[Wangchanberta-Thainer-Corpus-v2-2](https://huggingface.co/Porameht/wangchanberta-thainer-corpus-v2-2)**
   No.1 Download in AI-Research Apply Model in Thailand Fine-tuned `airesearch/wangchanberta-base-att-spm-uncased` on the `pythainlp/thainer-corpus-v2.2` dataset.
 
-  <img alt="Screenshot 2568-09-19 at 09 23 49" src="https://github.com/user-attachments/assets/4b183c19-d106-4ada-9e98-f8e3c45017a8" />
+  <img width="400" height="400" alt="Screenshot 2568-09-19 at 09 23 49" src="https://github.com/user-attachments/assets/4b183c19-d106-4ada-9e98-f8e3c45017a8" />
 
   ```python
   # Load model directly
