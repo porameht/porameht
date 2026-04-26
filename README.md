@@ -25,7 +25,7 @@
 - **[Object Detection API](https://github.com/porameht/object-detection-api)** A FastAPI-based microservice for object detection tasks with asynchronous processing.
 - **[ML Worker for object detection at scale RF-DETR Model](https://github.com/porameht/object-detection-worker)** ML Worker for object detection at scale. Pulls tasks from Pub/Sub, reads images from GCS, runs RFDETR, stores results to GCS, and notifies an internal API.
   
-  <img width="400" height="400" alt="Screenshot 2568-10-09 at 18 13 04" src="https://github.com/user-attachments/assets/5e9b9095-94f9-45dc-bebc-4a40bc66b09f" />
+  <img width="600" height="400" alt="Screenshot 2568-10-09 at 18 13 04" src="https://github.com/user-attachments/assets/5e9b9095-94f9-45dc-bebc-4a40bc66b09f" />
 
 - **Machine learning system design for realtime object detection**
 
@@ -34,13 +34,13 @@
 - **[Thongna](https://github.com/porameht/Thongna)**
   High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
 
-  <img width="400" height="400" alt="Screenshot 2568-07-27 at 19 19 52" src="https://github.com/user-attachments/assets/853c4cbe-d64a-43c0-b505-6d150463eb6f" />
+  <img width="600" height="400" alt="Screenshot 2568-07-27 at 19 19 52" src="https://github.com/user-attachments/assets/853c4cbe-d64a-43c0-b505-6d150463eb6f" />
 
 - **[Restaurant Recommendation API - Rust](https://github.com/porameht/recsys-ml-inference-rust)** High-performance multi-threaded application restaurant recommendation service with ML inference, achieving P95 latency < 20ms at 800 concurrent users.
 
-  <img width="400" height="400" alt="Screenshot 2568-10-09 at 20 25 48" src="https://github.com/user-attachments/assets/7b0dfbee-072e-42d4-a1c0-732183257fc0" />
+  <img width="600" height="400" alt="Screenshot 2568-10-09 at 20 25 48" src="https://github.com/user-attachments/assets/7b0dfbee-072e-42d4-a1c0-732183257fc0" />
   
-  <img width="400" height="400" alt="Screenshot 2568-10-09 at 20 30 41" src="https://github.com/user-attachments/assets/e32e926e-1be9-43cb-830b-9eed7e28859c" />
+  <img width="600" height="400" alt="Screenshot 2568-10-09 at 20 30 41" src="https://github.com/user-attachments/assets/e32e926e-1be9-43cb-830b-9eed7e28859c" />
 
 
 - **[BiLSTM-CRF using Word/Character Embedding](https://github.com/porameht/bi_lstm_crf_ner)**
@@ -49,7 +49,7 @@
 - **[Ecommerce Hybrid Search](https://github.com/porameht/Ecommerce-Hybrid-Search)**
   Utilizes Pinecone vector DB, CLIP dense vectors, and BM25 sparse vectors with hybrid scaling for product search.
 
-  <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/93165aa6-5e15-44cb-961b-89241a2c1a0e" />
+  <img width="600" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/93165aa6-5e15-44cb-961b-89241a2c1a0e" />
 
 - **[OpenThaiGPT-7B Customer Support](https://huggingface.co/Porameht/openthaigpt-7b-customer-support-th)**
   Thai customer support fine-tuned version of the OpenThaiGPT-7B model.
@@ -69,12 +69,12 @@
 - **[rust-remove-background-cpu](https://github.com/porameht/rust-rem-bg-cpu)**
   High Performance a fast background removal service written in Rust, using the U2Net model and ONNX Runtime for CPU Base inference.
 
-  <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/6fb03cb8-5878-4b46-8218-52ce825f85d9" />
+  <img width="600" height="400" alt="Screenshot 2568-07-27 at 18 13 28" src="https://github.com/user-attachments/assets/6fb03cb8-5878-4b46-8218-52ce825f85d9" />
   
 - **[bg-remove-webgpu](https://github.com/porameht/bg-remove-webgpu)**
   Image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
 
-  <img width="400" height="400" alt="Screenshot 2568-09-19 at 09 54 41" src="https://github.com/user-attachments/assets/abc51c92-807e-4de6-bc52-f9b304f00cca" />
+  <img width="600" height="400" alt="Screenshot 2568-09-19 at 09 54 41" src="https://github.com/user-attachments/assets/abc51c92-807e-4de6-bc52-f9b304f00cca" />
 
 - **[image-processing-cpu](https://github.com/porameht/image-processing-cpu)**
   A FastAPI service that removes backgrounds from images using deep learning models, optimized for CPU and low-memory environments.
@@ -82,7 +82,7 @@
 - **[data-analyst-agent](https://github.com/porameht/data-analyst-agent)**
   Multi-agent AI system with ease, flexible framework provided by crewAI. This agents to collaborate effectively on complex tasks
 
-  <img width="400" height="400" alt="Screenshot 2568-07-27 at 18 26 32" src="https://github.com/user-attachments/assets/5b3b51e8-8b88-4920-a4f3-be8afbafad2c" />
+  <img width="600" height="400" alt="Screenshot 2568-07-27 at 18 26 32" src="https://github.com/user-attachments/assets/5b3b51e8-8b88-4920-a4f3-be8afbafad2c" />
   
 ---
 
