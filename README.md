@@ -31,10 +31,8 @@
 
   <img width="1400" height="491" alt="Screenshot 2568-10-09 at 18 10 35" src="https://github.com/user-attachments/assets/c3f27549-eea5-4d24-8a74-12a07a4dc9ae" />
 
-- **[Thongna](https://github.com/porameht/Thongna)**
-  High-performance text processing library for the Thai language, built with Rust and exposed as a Python package.
-
-  <img width="600" height="400" alt="Screenshot 2568-07-27 at 19 19 52" src="https://github.com/user-attachments/assets/853c4cbe-d64a-43c0-b505-6d150463eb6f" />
+- **[thainlp-rs](https://github.com/porameht/thainlp-rs)**
+    Thai NLP library built with Rust. provied feature Word segmentation (NewMM algorithm), Text normalization, BM25 sparse embedding (fastembed compatible), Custom dictionary support
 
 - **[Restaurant Recommendation API - Rust](https://github.com/porameht/recsys-ml-inference-rust)** High-performance multi-threaded application restaurant recommendation service with ML inference, achieving P95 latency < 20ms at 800 concurrent users.
 
