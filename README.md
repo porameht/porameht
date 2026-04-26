@@ -25,7 +25,7 @@
 - **[Object Detection API](https://github.com/porameht/object-detection-api)** A FastAPI-based microservice for object detection tasks with asynchronous processing.
 - **[ML Worker for object detection at scale RF-DETR Model](https://github.com/porameht/object-detection-worker)** ML Worker for object detection at scale. Pulls tasks from Pub/Sub, reads images from GCS, runs RFDETR, stores results to GCS, and notifies an internal API.
   
-  <img width="600" height="400" alt="Screenshot 2568-10-09 at 18 13 04" src="https://github.com/user-attachments/assets/5e9b9095-94f9-45dc-bebc-4a40bc66b09f" />
+  <img width="600" height="300" alt="Screenshot 2568-10-09 at 18 13 04" src="https://github.com/user-attachments/assets/5e9b9095-94f9-45dc-bebc-4a40bc66b09f" />
 
 - **Machine learning system design for realtime object detection**
 
